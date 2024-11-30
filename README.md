@@ -1,0 +1,2 @@
+# Segmentation
+Customer segmentation project
